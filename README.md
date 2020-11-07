@@ -39,7 +39,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
+- [Getting started with NPM(Node Package Manager)](https://sarveshkadam.tech/npmnode-package-manager-packages)
+- [How to use the NodeJS Core (Native) modules?](https://sarveshkadam.tech/how-to-use-the-nodejs-core-native-modules)
+- [How to use Modular patterns in NodeJS?](https://sarveshkadam.tech/how-to-use-modular-patterns-in-nodejs)
+- [How to get out of Tutorial Hell without getting out of it?](https://sarveshkadam.tech/tutorial-hell)
+- [How to use Functions in JavaScript?](https://sarveshkadam.tech/how-to-use-functions-in-javascript)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://sarveshkadam.tech/)
