@@ -2,6 +2,8 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/kadamsarvesh10?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fkadamsarvesh10&screen_name=kadamsarvesh10)
 
+[![LinkedIn Follow](https://img.shields.io/linkedIn/follow/sarvesh-kadam?color=1DA1F2&logo=twitter&style=for-the-badge)](https://www.linkedin.com/in/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fsarvesh-kadam&screen_name=sarvesh-kadam)
+
 ## I'm a Web Developer, QA Engineer and Blogger!!
 
 - :computer: Web developer
