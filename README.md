@@ -2,13 +2,11 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/kadamsarvesh10?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fkadamsarvesh10&screen_name=kadamsarvesh10)
 
-## I'm a QA Engineer, Web Developer and Blogger!!
+## I'm a Web Developer, QA Engineer and Blogger!!
 
-- 🔭 I'm a QA Engineer by industry experience!
-- 🌱 I’m currently learning Web-development
-- 🥅 2020 Goals: Learn and write a lot
-
-:fire: 
+- :computer: Web developer
+- :office: QA Engineer by industry experience!
+- 🥅 Learn and write a lot
 
 ### Connect with me:
 
@@ -36,7 +34,7 @@
 
 ---
 
-### 📕 Latest Blog Posts
+### :green_book: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Getting started with NPM(Node Package Manager)](https://sarveshkadam.tech/npmnode-package-manager-packages)
