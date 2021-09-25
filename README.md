@@ -5,8 +5,8 @@
 
 ## I'm a Software Developer and Blogger!!
 
-- :computer: Web developer
-- :office: QA Engineer by industry experience!
+
+- :office:Software Engineer!
 - 🥅 Learn and write a lot
 
 ### Connect with me:
